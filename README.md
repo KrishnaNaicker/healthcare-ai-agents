@@ -581,7 +581,6 @@ healthcare-ai-crew/
 ├── 📄 main.py                          # Main application entry point
 ├── 📄 healthcare_crew.py               # Crew orchestration logic
 ├── 📄 requirements.txt                 # Python dependencies
-├── 📄 .env.example                     # Environment template
 ├── 📄 .env                             # Your API keys (create this)
 ├── 📄 .gitignore                       # Git ignore rules
 ├── 📄 README.md                        # This file
@@ -1031,10 +1030,6 @@ This project was inspired by:
 ### Documentation
 
 - **README.md** - This file
-- **QUICKSTART.md** - 5-minute setup guide
-- **TEST_CASES.md** - Example scenarios
-- **TROUBLESHOOTING.md** - Common issues
-- **API_REFERENCE.md** - API documentation
 
 ### Resources
 
@@ -1043,25 +1038,6 @@ This project was inspired by:
 - **LangChain Docs**: https://python.langchain.com
 
 ---
-
-## 🎓 Learning Resources
-
-### For Beginners
-
-1. Start with `QUICKSTART.md`
-2. Run `python main.py --sample`
-3. Try your own symptoms
-4. Read agent code in `agents/`
-5. Modify and experiment!
-
-### For Advanced Users
-
-1. Read `PROJECT_OVERVIEW.md`
-2. Study the multi-agent architecture
-3. Customize agent behaviors
-4. Add new specialties
-5. Integrate with databases
-6. Build web interface
 
 ### Topics Covered
 
@@ -1072,34 +1048,6 @@ This project was inspired by:
 - 💬 Natural language processing
 - 🎯 LLM prompt engineering
 - 🏗️ Production software architecture
-
----
-
-## 🚀 Roadmap
-
-### Version 1.0 (Current) ✅
-- ✅ 4-agent workflow
-- ✅ 15+ medical specialties
-- ✅ Emergency detection
-- ✅ Real-time progress display
-- ✅ Clean output
-- ✅ File persistence
-
-### Version 2.0 (Planned)
-- 🔄 Database integration
-- 🔄 Patient history tracking
-- 🔄 Appointment scheduling
-- 🔄 Multi-language support
-- 🔄 Web interface
-- 🔄 API endpoints
-
-### Version 3.0 (Future)
-- 🔮 Voice input/output
-- 🔮 Medical image analysis
-- 🔮 Integration with EHR systems
-- 🔮 Telemedicine integration
-- 🔮 Mobile app
-- 🔮 HIPAA compliance
 
 ---
 
@@ -1149,7 +1097,7 @@ This Healthcare AI Multi-Agent System demonstrates:
 
 ## 📅 Version History
 
-### v1.0.0 (2024-11-04)
+### v1.0.0 (2025-11-04)
 - ✅ Initial release
 - ✅ 4-agent workflow
 - ✅ Real-time progress display
@@ -1162,7 +1110,7 @@ This Healthcare AI Multi-Agent System demonstrates:
 
 ---
 
-*Last Updated: November 2024*  
+*Last Updated: November 2025*  
 *Maintained by: Krishna Naicker*  
 *License: Educational Use*  
 *Built with CrewAI + Groq + Python*
